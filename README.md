@@ -4,9 +4,9 @@
 
 I am a Python Full Stack Developer with experience in Python, Django, MySQL, HTML, CSS, and JavaScript. I am also passionate about Data Science, Machine Learning, and building scalable web applications.
 
-🎓 M.Tech in Data Science
+🎓 Bachelor of Engineering in computer Science
 
-💻 Python Full Stack Developer Intern
+💻 Python BackendDeveloper at Meythoma International
 
 🌱 Currently learning Distributed Systems, Docker, Kubernetes, and Cloud Computing.
 
@@ -34,25 +34,46 @@ I am a Python Full Stack Developer with experience in Python, Django, MySQL, HTM
 - Semantic Search Model
 - Response generation performance
 
-### Multi-Modal Deepfake Detection
+### Video-to-Product Launch Teaser Generator 
+-  FastAPI
+-  Generative AI
+- Latent Diffusion Models
+- Autoencoders
+-  PostgreSQl
+-  S3/MinIO
+-  Docker
+-  REST APIs and GPU Computing.
+
+
+### Unified Multi-Site Security Command Center
 - Python
-- PyTorch
-- Temporaral Boundary mapping
-- OpenCV
-- VAF Extractor
+- Django
+- Django REST Framework
+- HTML, CSS
+- JavaScribt
+- MySQL
+- Django ORM
+- REST APIs
+- JWT, RBAC, MFA
+- WebSockets
+- GitHub
+- Docker and Postman
 
-
-### Hand Gesture Virtual Keyboard
-- Python
-- OpenCV
-- MediaPipe
-- PyautoGUI
-
-### Texas Salary Prediction
+### Intelligent Security Workforce Optimization Platform
 - Python
 - ML
 - ETL
-- PowerBI
+- Django
+- Django REST Framework
+- HTML, CSS
+- JavaScribt
+- MySQL
+- Django ORM
+- REST APIs
+- JWT, RBAC, MFA
+- WebSockets
+- GitHub
+- Docker and Postman
 
 ## 📚 Currently Learning
 
@@ -67,4 +88,4 @@ I am a Python Full Stack Developer with experience in Python, Django, MySQL, HTM
 Email: vairamuthumani06@gmail.com
 
 LinkedIn:
-www.linkedin.com/in/vairamuthu-n-031361256
+[www.linkedin.com/in/vairamuthu-n-031361256](https://www.linkedin.com/in/vairamuthumani/)
